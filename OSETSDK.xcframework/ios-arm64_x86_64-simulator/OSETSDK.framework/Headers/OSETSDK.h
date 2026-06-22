@@ -2,8 +2,7 @@
 //  OSETSDK.h
 //  OSETSDK
 //
-//  Created by 熊俊 on 2019/11/11.
-//  Copyright © 2019 熊俊. All rights reserved.
+//  Created by wuqihan on 2026/5/19.
 //
 
 #import <Foundation/Foundation.h>
@@ -30,7 +29,7 @@ FOUNDATION_EXPORT const unsigned char OSETSDKVersionString[];
 #import <OSETSDK/OSETMediaView.h>
 #import <OSETSDK/OSETShakeView.h>
 #import <OSETSDK/OSETBaseView.h>
-
+#import <OSETSDK/OSETDrawAd.h>
 
 
 #import <OSETSDK/OSETSDKInitializable.h>
@@ -44,3 +43,4 @@ FOUNDATION_EXPORT const unsigned char OSETSDKVersionString[];
 #import <OSETSDK/OSETAdConfig.h>
 #import <OSETSDK/OSETInitConfig.h>
 #import <OSETSDK/OSETAdError.h>
+#import <OSETSDK/OSETCommonAdapterSupport.h>

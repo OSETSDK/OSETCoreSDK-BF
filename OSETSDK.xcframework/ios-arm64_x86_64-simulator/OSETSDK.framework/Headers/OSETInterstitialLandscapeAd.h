@@ -46,7 +46,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 显示
 /// @param rootViewController 当前控制器
-- (void)showFromRootViewController:(UIViewController *)rootViewController;
+- (void)showInterstitialLandscapeFromRootViewController:(UIViewController *)rootViewController;
 
 @end
 

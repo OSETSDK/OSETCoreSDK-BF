@@ -4,50 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>AdSetQDAAdSDK.bundle/ad.png</key>
-		<data>
-		hxnCwjKaZW7J2NMwbUFjuTiX5is=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/ad_arrow.png</key>
-		<data>
-		VYaGqu4P8m1GtXFmbFCDka+xkWo=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/adsetQDA_icon_shark.png</key>
-		<data>
-		9ENQo6qT7DNqp4xdO/QzQO4+lrE=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/adsetQDAf_logo.png</key>
-		<data>
-		5VKLARWjezEnq/U4UIXVuzvPyXs=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/closed.png</key>
-		<data>
-		7SFSjFrsl3tQYfiGm/Aw4yw6BQA=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/lace.png</key>
-		<data>
-		r1NmLR0m7M+BQCQsocgNem4h0Po=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/marks.png</key>
-		<data>
-		msXr1ijnFZrNDd2JrrYn0fDSTXY=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/mute.png</key>
-		<data>
-		DqP8GyPOd5i9JujtWf4z2buWzyo=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/play_start.png</key>
-		<data>
-		fwPlb8K26x9Nbxg9owXIZog4LUI=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/reward.png</key>
-		<data>
-		ECcJVnjQ25+J5neoslvGSbRbfCk=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/voice.png</key>
-		<data>
-		OLZL9fT2Bg/ofBQnGtLqZL/Lf4g=
-		</data>
 		<key>AdSetQDB_sdk.bundle/ad_close.png</key>
 		<data>
 		prIOBFjVJ00QoL9iZgzuWFvTyGs=
@@ -108,197 +64,109 @@
 		<data>
 		dWUtbeAP5+14yU9Hn8SSi9kBRHA=
 		</data>
-		<key>AdSetQDCAdSDK.bundle/Info.plist</key>
+		<key>AdSetQDFAdSDK.bundle/stars_ads_img_erase.png</key>
 		<data>
-		Uu/8d9g5Y2149tWVb1DzgOrbrZA=
+		eSwz8eSQsB807EpXGf0djtmXBnA=
 		</data>
-		<key>AdSetQDCAdSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_edit_666.png</key>
 		<data>
-		PFHYbs0V3eUFDWQyYQcwEetuqEk=
+		2jSoKXgvzqD6BXKIWfvFe+xnE4E=
 		</data>
-		<key>AdSetQDCCore.bundle/Info.plist</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_feedback.png</key>
 		<data>
-		dL8OfF6kvH5UJtIVu+45dbmiN1Y=
+		Js2F50zgmtF/NbKWtFNNX5e5Hns=
 		</data>
-		<key>AdSetQDCCore.bundle/adsetqdc_rotate_01.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_arrow_left.png</key>
 		<data>
-		+frDPCeSIke4gsW1QYEeB/wowdQ=
+		0E5XELk0sjhwSK9ivuvvedImXfI=
 		</data>
-		<key>AdSetQDCCore.bundle/adsetqdc_rotate_02.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_arrow_right.png</key>
 		<data>
-		ODSAnwLljjqFTZ1UqwOjAwZWpVc=
+		NHw83i5mdTjXY4LsyV7mVxX6Lkw=
 		</data>
-		<key>AdSetQDCCore.bundle/adsetqdc_rotate_03.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_detainment_gift.png</key>
 		<data>
-		yOK1FjmPYtzffVj+DLc+jC7DQnc=
+		JLHwq8UY9YiIykBfUHJ6cq6iVTE=
 		</data>
-		<key>AdSetQDCCore.bundle/adsetqdc_rotate_04.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_red_pack.png</key>
 		<data>
-		nu/qt2FmlSxlEQL9AwiL1vuv2Ho=
+		qdpqugLW0utBpVT2xDpJ9dOfheY=
 		</data>
-		<key>AdSetQDCCore.bundle/adsetqdclogo.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_rotate_line.png</key>
 		<data>
-		/1wMPE1ZziACDV4uMjlrgH8TdDs=
+		VYr/ryEcAHdWYDPhVcj4tm4Vey4=
 		</data>
-		<key>AdSetQDCCore.bundle/icon_alert_click.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_rotate_phone.png</key>
 		<data>
-		OjQdT27kgbixnmYbN8GWB38sFPM=
+		JWzfHVZOEz0fJfEPmfGbcCOMdlg=
 		</data>
-		<key>AdSetQDCCore.bundle/icon_alert_finger.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_shadow.png</key>
 		<data>
-		fzgEpq61Ck/FKJOswJIYB1mjdWo=
+		cO9lp9RoFzYGctEmogE70VEA3Fo=
 		</data>
-		<key>AdSetQDCCore.bundle/icon_alert_logo.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_shake_hand.png</key>
 		<data>
-		C7Z3Pe1TzTR/QXPmvlDPgiz4w+Q=
+		7bee1Xbb0q/JVPd68LKSytjdbyU=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/Info.plist</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_shake_phone.png</key>
 		<data>
-		oPwpQjsyXpNtWNIRBtffoQgl154=
+		o39itFMtbh2qNd2jgU6K+Ed7xqw=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_slide_hand.png</key>
 		<data>
-		9mBNp6TjxMX/flIBAd1lrEvGEKM=
+		SKvoPAebLWXAqwKH+fargiTH+5E=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/adBackGround.jpg</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_landing_back.png</key>
 		<data>
-		Sn3EsfmX2two37B+doYOnezX9B4=
+		xquJptem56zEXHkq9GzZG3hyVgU=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/ad_back_black_blod.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_landing_close.png</key>
 		<data>
-		6SNjAsUMOYsIledy5Vj96P+hqco=
+		KDsRG3sjWCEKAS555KD495h0U94=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/ad_back_white_blod.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_landing_close_bg.png</key>
 		<data>
-		wAN+7yTGoDznaS0beGSg3r2da8Q=
+		JUX6Qtd8haP9Q05Arxv1c0BPdTM=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/ad_close_blod.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_logo_white.png</key>
 		<data>
-		blbHratsTWdyTpl0uKnnyxQMc5M=
+		+cukgOhySukb9ndGxwzoSVPAU6c=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/ad_page_loadingerr.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_reward_close.png</key>
 		<data>
-		B6PuYbYy7NPvTqc9YqNgvZTFOaM=
+		/c7Xda9Qve5S0RjMqtY8GNuWHx4=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/ad_reward_giftpack.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_reward_play.png</key>
 		<data>
-		rpSz9Whff95IcxgLlHjZyhe8xWs=
+		ZanfhfzTuR1iBR3Pa972fSlCBhM=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_actionButton.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_reward_replay.png</key>
 		<data>
-		CUdV/JsTI0KkDbwjbRSS5WeNdxM=
+		aFdn9/QtAOJqSRzJMH5fOW0cNWE=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_ad@2x.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_video_pause.png</key>
 		<data>
-		2zS/MtZHyK2Amzjz/YRwZUXlOD4=
+		EfEFDKLi9rEiBkIvCGydphAKCiw=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_ad_rock.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_video_player.png</key>
 		<data>
-		GEqlMCVrUBxjCSXrzZnOV7BdB2U=
+		0f1Iyr9RS8gXmcUQlK+L3bZ2xM4=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_back@3x.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_video_sound_close.png</key>
 		<data>
-		NZAFYDyxT5OQJoxHKGLJlxsckwU=
+		0OgXgzYwfD2Jp7ypnNbQTndETfE=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_close@2x.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_video_sound_open.png</key>
 		<data>
-		0gJ+UKvaKs7i/qEHQrikfn5cz0g=
+		ThneLbXoXl5c5fGtthSPJOeUEXA=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_close_btn@3x.png</key>
+		<key>AdSetQDFAdSDK.bundle/statsad_download_delete.png</key>
 		<data>
-		sYjC7/p1KQbYHj9A+/F2HfbEsqA=
+		Nl2RKUcI4Wj32VmfUc4MkuFuahw=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_play@3x.png</key>
+		<key>AdSetQDFAdSDK.bundle/statsad_ic_rotate_line.png</key>
 		<data>
-		hB1T7TYozqlqdHnV2kWwJyngXk0=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_sound_close.png</key>
-		<data>
-		QWsR/0Q0UpvHhpW0YYoRmu8uanU=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_sound_open.png</key>
-		<data>
-		vYpMblQfp5uLNOKbkdjJL/nY73I=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_video_back@3x.png</key>
-		<data>
-		gLNMmmGi15jxWF05oqYO8r9yhLI=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/close_btn_prerender.png</key>
-		<data>
-		vB8g9TAFIXnJ7lavN6uZG2RFQWc=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/newTempRock.png</key>
-		<data>
-		JRhFSL9FudzReGtWfc8DHhlJMvQ=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/rockBtn.png</key>
-		<data>
-		hml6tkga53stbkN3PFMxgYQvrvg=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/rockSmallIcon.png</key>
-		<data>
-		iyXbIicgpQq6RjY//KwWJmMTLcE=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/splashDirection.png</key>
-		<data>
-		/PsLzYoBchX97Qu6KM1RvN5nrbI=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/splashRock.gif</key>
-		<data>
-		YB4HvPcu1XvMw+hmA2Pq2eaU/QI=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/splash_arrow.png</key>
-		<data>
-		as281X54k1CfYP4E2AQMNMnL9b4=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/splash_directions_small.png</key>
-		<data>
-		zA0OP9WbTNyCdI1w7+cu0C+fsDA=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/star.png</key>
-		<data>
-		w16gHNOf/EeSOTrJ3PB6mC9RjFI=
-		</data>
-		<key>AdSetQDDAdSDK.bundle/twistSmallIcon.png</key>
-		<data>
-		iFkxTbIIVbdTP6zADnUUEQteYUY=
-		</data>
-		<key>Frameworks/AdSetQDDAdMotion.framework/AdSetQDDAdMotion</key>
-		<data>
-		0Ni5rApTjaPPjoZ3oEHA7rnbtJc=
-		</data>
-		<key>Frameworks/AdSetQDDAdMotion.framework/Info.plist</key>
-		<data>
-		plBfr7DHscegGPec9lf4G3/9mnE=
-		</data>
-		<key>Frameworks/AdSetQDDAdMotion.framework/_CodeSignature/CodeResources</key>
-		<data>
-		kUZR6R0NN9iUTvt397fTeDnLQPo=
-		</data>
-		<key>Frameworks/AdSetQDDAdSDK.framework/AdSetQDDAdSDK</key>
-		<data>
-		+yDbX9BbJsTHszBIaf45204QbtY=
-		</data>
-		<key>Frameworks/AdSetQDDAdSDK.framework/Info.plist</key>
-		<data>
-		/shsnUxIe85b2Yq5A23TI9SzWLo=
-		</data>
-		<key>Frameworks/AdSetQDDAdSDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		BzoXeP7ar0+OWnEqyd9bkdU6XWY=
-		</data>
-		<key>Frameworks/AdSetQDDAdvertisingID.framework/AdSetQDDAdvertisingID</key>
-		<data>
-		VzaeqUYCSnP9HevNRPX/uFbrEJA=
-		</data>
-		<key>Frameworks/AdSetQDDAdvertisingID.framework/Info.plist</key>
-		<data>
-		Bc8Y/t9IDOyFlbq5tsI5m4QpZ0Y=
-		</data>
-		<key>Frameworks/AdSetQDDAdvertisingID.framework/_CodeSignature/CodeResources</key>
-		<data>
-		BiSJ17MJYyUozuudLlsGm8W7M8M=
+		VYr/ryEcAHdWYDPhVcj4tm4Vey4=
 		</data>
 		<key>Headers/OSETAdConfig.h</key>
 		<data>
@@ -310,7 +178,7 @@
 		</data>
 		<key>Headers/OSETBannerAd.h</key>
 		<data>
-		3N+vyipv2mWdusYScZ7v+Msv2DY=
+		KYZlUEkyiI76I6dY4ehFQLc0cF0=
 		</data>
 		<key>Headers/OSETBannerAdProtocol.h</key>
 		<data>
@@ -327,6 +195,10 @@
 		<key>Headers/OSETBaseView.h</key>
 		<data>
 		URPyutU6BJjkZrsRJXw3TczXKtg=
+		</data>
+		<key>Headers/OSETCommonAdapterSupport.h</key>
+		<data>
+		3UqRMlHaj/iDv4rSFG/lpfBaGjo=
 		</data>
 		<key>Headers/OSETDrawAd.h</key>
 		<data>
@@ -350,11 +222,7 @@
 		</data>
 		<key>Headers/OSETInterstitialLandscapeAd.h</key>
 		<data>
-		YKE54ULpJoSChI29B8irPK8w5Sk=
-		</data>
-		<key>Headers/OSETLogManager.h</key>
-		<data>
-		PyI6FRnnariv9FkKNQAIGfpjQ1k=
+		SkeiRK1QAoD/SpN+y5wOFcYyttk=
 		</data>
 		<key>Headers/OSETManager.h</key>
 		<data>
@@ -374,7 +242,7 @@
 		</data>
 		<key>Headers/OSETNativeAdRenderer.h</key>
 		<data>
-		MgctA5rcAsr2XD8IewLQT0MHI7w=
+		bGCuarSSENwPTXU39JuMb6nxhEk=
 		</data>
 		<key>Headers/OSETNativeDataAd.h</key>
 		<data>
@@ -382,11 +250,11 @@
 		</data>
 		<key>Headers/OSETNativeDataAdObject.h</key>
 		<data>
-		HXQvD/D1mIQLRS/k3VSHNZujij0=
+		pcXXJQvPisbgQM9QfFuukpcxU1s=
 		</data>
 		<key>Headers/OSETNativeDataAdProtocol.h</key>
 		<data>
-		fS1z6u2FHpr+8yJNYH5FcLU8EO4=
+		OTc2bxAjbPPbwBatsQCpcTKcPfA=
 		</data>
 		<key>Headers/OSETRewardVideoAd.h</key>
 		<data>
@@ -398,7 +266,7 @@
 		</data>
 		<key>Headers/OSETSDK.h</key>
 		<data>
-		rxMSTG+KBUoOwr+8LUPOs79JK6I=
+		niMtmYoKgwh+ft3GGPoFvST07PY=
 		</data>
 		<key>Headers/OSETSDKInitializable.h</key>
 		<data>
@@ -418,7 +286,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bf8iVlilxv3LQYoqhcVtnwBswgE=
+		yPhiRP0wBJEXetQcyVU3fWt/g9o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -671,83 +539,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>AdSetQDAAdSDK.bundle/ad.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BRd+WPekF8E/1XzhwapiMGE+9RRwWSFmGrQAuK+3Oas=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/ad_arrow.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qL4mfxLaZC8GYeG5uigQIoNQuCIgCx+zo6fTnrD2Qnk=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/adsetQDA_icon_shark.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+do+bhvJ8wAaAOrqdYLfw8u1Q8jJImS8kIaSvhmm+Pw=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/adsetQDAf_logo.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			daLKO7AOBgn051v7W+ORQ76NMcvEPLrC9JpQ6o7auiA=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/closed.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KcGpWswRe0DZDGokIJypRmAPn7mO7nT+Dsbte/Tn6hI=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/lace.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XFPbOnM1V6hQ0yOKao/WBYJ2EZj1UuQ/tJunV60hpRs=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/marks.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qtASHb4lXXUNNPzYFxItWJzo17SqA4cYqhnEF3hpdVM=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/mute.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PSP7aVEYh22FIL0iYKlTKl82/gDXdcWqVjcj5Iu11uA=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/play_start.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cwVHwChdIC9tY6fKB670Onwx2RHI3SdhJJU2PS2NIyc=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/reward.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PnO6A3RSk3tlKWhu2uNq1LHufRA9T3Tw/QG0uUyM6W8=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/voice.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cwRZIZ0qFQful29yEx4Q4f1qXiM26tktcOpZmsn6T3Q=
-			</data>
-		</dict>
 		<key>AdSetQDB_sdk.bundle/ad_close.png</key>
 		<dict>
 			<key>hash2</key>
@@ -853,340 +644,186 @@
 			mmswKhLEFALF0+UMqeDPB0q3KFpD+lDnXc2jKglPY80=
 			</data>
 		</dict>
-		<key>AdSetQDCAdSDK.bundle/Info.plist</key>
+		<key>AdSetQDFAdSDK.bundle/stars_ads_img_erase.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t17V+UnkyS/s8PoCpd+pglQLDc+RNxsYYm53iXAfIAc=
+			j/lpTElKc+6f21BCfGB0qKvIOVhSKc+7PiW+TJICk28=
 			</data>
 		</dict>
-		<key>AdSetQDCAdSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_edit_666.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
+			jUJLpC+5Jg6Xl4W7LQzG17LHART6b/fO4h91JtufEfg=
 			</data>
 		</dict>
-		<key>AdSetQDCCore.bundle/Info.plist</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_feedback.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			emCWO3ytFCVEw64FtfR4RKj2Sq+0WmGqltYp4RoQN2k=
+			k21GTtcBfUvLG388ILHwhwqMG1GRK3TYGciZopilWwI=
 			</data>
 		</dict>
-		<key>AdSetQDCCore.bundle/adsetqdc_rotate_01.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_arrow_left.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uLR1JUd5W8/BznF/emLwbzCXbTxkJg31FxRKwcyi4ww=
+			6xBUo4jLJPMlZYp6EFv4+j1O/H9BeDri01ex+9P9EuE=
 			</data>
 		</dict>
-		<key>AdSetQDCCore.bundle/adsetqdc_rotate_02.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_arrow_right.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2/8CPzRCQWVSaoaRga+At9FlLh+dwcv27diiOtpH84=
+			eRaajYFl02M9OdnVmDbAWYoRBoySMltQDPUp0pmPK/g=
 			</data>
 		</dict>
-		<key>AdSetQDCCore.bundle/adsetqdc_rotate_03.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_detainment_gift.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L3+VhQMQT3E8fv8HO4pDI/hu6xCTsnJS8SxrnabsS0Y=
+			CyW3IKBuzJWZrnm/z7cHoxyyWCgBXqeY5k+/3voMQPU=
 			</data>
 		</dict>
-		<key>AdSetQDCCore.bundle/adsetqdc_rotate_04.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_red_pack.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yzQrHQmdnQkcQDfJ6LO0vtINaTamuYCdl1c47SwLYB0=
+			dofZz9lNlW9EdpBMieldNBYyRWsStWlO3ck+42qWlAk=
 			</data>
 		</dict>
-		<key>AdSetQDCCore.bundle/adsetqdclogo.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_rotate_line.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9e5s3YSW/WJyqorViy/STnLhqruwZsrzexa3o9iueco=
+			eFhQEe7a0cjgE8UbUfPsscXWlsf7LkCMuaNqS+qVIfE=
 			</data>
 		</dict>
-		<key>AdSetQDCCore.bundle/icon_alert_click.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_rotate_phone.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AIoIpQCQZ9PnFwTB8NBOPTK9O6w4J8h3Tf59/LIeQqE=
+			P8ujXzxCA0m3nxmFZfqng9mFM6cJaTAs3RIuFXTH9A0=
 			</data>
 		</dict>
-		<key>AdSetQDCCore.bundle/icon_alert_finger.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_shadow.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aRuxai7k5Q2sHBUy4y2rwCrxxmYeAxFQt0cxVOkZRy0=
+			MQr1PEDu1kHL4Ej661tMRUC1vrSsxd/WzAjSNkj2ht0=
 			</data>
 		</dict>
-		<key>AdSetQDCCore.bundle/icon_alert_logo.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_shake_hand.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V7+nFkCvivF+oSZaejaLC9US4Ga0Mo1cx30THWV/R10=
+			IwsoeEQiHE7/CyqGugg2xS9KYnTIzkT1JjJREA5ooZE=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/Info.plist</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_shake_phone.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BHXjr6owwPEWSYoG8+X+I/hHtTzGE9WHrs8/qr4CXS0=
+			y2PRJHbX+Mu55fKn8wf9ZNcwIS45qH1EQWuF37/1ZTs=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_ic_slide_hand.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nzJ6oWTPqY2KQxD+Lz6cDjHkhASWiMgCQVXXYviuXPQ=
+			Bt1sMo5b4efw8LkEnu+jYxbTvuRpSBT3VrPPZridOdU=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/adBackGround.jpg</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_landing_back.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QOj2g3iQKfsX3arQZR2EdkGYQD5reYQRy1zvvR9k4xU=
+			xohwKpPD+QRvViqEkLqOG+ZpsgbI3rgVQ83eTYP+be4=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/ad_back_black_blod.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_landing_close.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qiTOsNuedk9ZuBJ+P6+a3tKKn3doRUgo+v+RREPWdNM=
+			6G5jMTmMTtGpFyVAH0i29JfpZTkOnyMPJQSbD74xBYM=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/ad_back_white_blod.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_landing_close_bg.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qmqFz1Rf8bIz+FaH5Q80VRDPN0xL7gksmIDQt/EmiWI=
+			PvPp27hYWcMfENqhccySGshr6fXLPic1YEBw4LjHohQ=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/ad_close_blod.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_logo_white.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			25RZKWuKVtWpJtBIQX6eXFwOgCBCf5QgmwdGwb/Mc+I=
+			0wTScpZnXBEBtWFBAHfXQ942XyJTM227p+Pghnyb3iE=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/ad_page_loadingerr.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_reward_close.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LJXVmnkmRRnfO45mfoLt/8l1xZa/4ErHYEue4xoMUwQ=
+			zuSeI2ly+wVKJ4rN6F6P0Q8wvQMjOlFdTTRT90eSnAo=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/ad_reward_giftpack.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_reward_play.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R19lKU8o3AYe0++3TREH/wSDV87AlFNx8jAU0qdNp6Y=
+			7ipmcb717hcCv4HCyiyR7U1wPh5LqbdG+4LFpjuaNBw=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_actionButton.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_reward_replay.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lgburCiU05nlfasPVUvimh9pwL0XgrGu+U46aR2rVjA=
+			71BgjKhTYzdkjs5kpAU0nZIHtxEopBBJMPVmF/nwQsM=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_ad@2x.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_video_pause.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8faAkgjxVu1tAmGB/qaydDikyWW837KkN2msUp560Ro=
+			LyhRWv+3NbmpA1696UGk6olErX5zoSyd12W1FfYAibM=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_ad_rock.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_video_player.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W2d+WWuopyl4OWk5S9hi0SIhIxmKvbZ7jA93AxOOG+Y=
+			bE67PGcRzvIgliQ96fy/6HHsfgUcYr6oOlDlD6Id/NQ=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_back@3x.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_video_sound_close.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6y0tNG8OFk8/eK8undjYw1TX1fNcGskmosMWpCFfvJg=
+			C6HgaoUW7TKu5AvYNOVp4W/gqPsM1/MXfMfFN08Nbpo=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_close@2x.png</key>
+		<key>AdSetQDFAdSDK.bundle/starsad_video_sound_open.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/OZt3JZ8x6ia2iV1JnqvvMYIri5R1HpH6jM71A9FG/I=
+			P/EpVFJQOhR76Xq2pmQc1HOEiB4DgubdAMTUW9w8e0w=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_close_btn@3x.png</key>
+		<key>AdSetQDFAdSDK.bundle/statsad_download_delete.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ybkpBmR0cHnknkdnbLtXANsg61o/sbBLnUuT6uHdd6Q=
+			eg+3mw1Xv1/MVTKILiziiqwxX7PFQBhuGfJGa0PNPSw=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_play@3x.png</key>
+		<key>AdSetQDFAdSDK.bundle/statsad_ic_rotate_line.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z8olMe2FBl1+mcoxb8WD4/Ko00rN2tpV9+IVjycoZDI=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_sound_close.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VX6K1/i/HeZAbT0UrtmLdgWMlM4TIiugecD8xmPPEIs=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_sound_open.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			U9ECvkXnr6DyhKBxkFQ/vo4+7lZBDbwimYRY1wXosdE=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/adsetqdd_video_back@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0rA266Es9v+QQH51i+SrkUOKZm1czUXoUAum7RIpsIs=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/close_btn_prerender.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UaLzujaLkhUIxKn6Un6t84pMcwL0CIPvPx10CLTvBDE=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/newTempRock.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aN6NLqM6QqZV8ozrcTzRS8q/FaNyI8Wko4HW+uxFeSI=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/rockBtn.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XJjvwwKdLC8hYTYz9TN21tfG6LACU6Xd4RVDseAU134=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/rockSmallIcon.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SsmFKLNejka9Ys/AK0LVNL+YARo8x5IAftO5ksv9QmY=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/splashDirection.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nxOfIYurkRDdDIyBI7Nbh2FKZWr4qnPrypdv7nMJKTU=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/splashRock.gif</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YigDsszVGrnUehQMnZDPeYAI5jKbUna7sNmxhuMxKMA=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/splash_arrow.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LInlBXncqGgLICQGPYDZwppKqK4b3pkJNdX2u6J+VaM=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/splash_directions_small.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0dKdLLOUMYWNjwp2S6ZB3jAzCsD1dw3L5VMESSWDEkY=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/star.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sMC33fhsBWQowzrjPAu+QgbQyLaBl0bQweejY/Xlxcs=
-			</data>
-		</dict>
-		<key>AdSetQDDAdSDK.bundle/twistSmallIcon.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7jCwKmAzUIGtMXp9Yic2L8QuigcqIyAEMW8JzbmCuhA=
-			</data>
-		</dict>
-		<key>Frameworks/AdSetQDDAdMotion.framework/AdSetQDDAdMotion</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3qXh9yQmyWr3gNf4fqoeZ2KR6p4Spw1TJxitdKv7jT0=
-			</data>
-		</dict>
-		<key>Frameworks/AdSetQDDAdMotion.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OySFyS/JrKEd5GPnwGyzs9k+WGzCO2RIUV2jFLkNK0A=
-			</data>
-		</dict>
-		<key>Frameworks/AdSetQDDAdMotion.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hH8jZY2gwek4QBWNAyEe1Aab4vU3yCH/RKvlU2aqYnA=
-			</data>
-		</dict>
-		<key>Frameworks/AdSetQDDAdSDK.framework/AdSetQDDAdSDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1cXABbczugNW6VTzNHuIj9JfTStbeooxIwABUBn3ROc=
-			</data>
-		</dict>
-		<key>Frameworks/AdSetQDDAdSDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CAw1BCGx/jJQenihdxv/wZ0OOVTNavFvvIXTM0v0Uac=
-			</data>
-		</dict>
-		<key>Frameworks/AdSetQDDAdSDK.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			a8vIz5vVO9G6XfSl1OetuWYQIYCCE63FppoJtLXdDgM=
-			</data>
-		</dict>
-		<key>Frameworks/AdSetQDDAdvertisingID.framework/AdSetQDDAdvertisingID</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4FOTFHXJ5C79CnnDbXBiA9JEQ0JLi9a34/KIx1rimpI=
-			</data>
-		</dict>
-		<key>Frameworks/AdSetQDDAdvertisingID.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7ikr1Bhdx9xz7xx67v74tY5HS3pTkvzMd1gykouAvjM=
-			</data>
-		</dict>
-		<key>Frameworks/AdSetQDDAdvertisingID.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			R93C4qu3P7emhz1yzEIjUy0WoKBKaj2HxGzvOC2No14=
+			eFhQEe7a0cjgE8UbUfPsscXWlsf7LkCMuaNqS+qVIfE=
 			</data>
 		</dict>
 		<key>Headers/OSETAdConfig.h</key>
@@ -1207,7 +844,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+oCEEUhuYgha6pONeuf1HSNRrDT2AGlrdv5kW9cvuw=
+			zhO9Q8+O3tIcID+WExJoVxy43IEhxu4fRczxqtM7CMk=
 			</data>
 		</dict>
 		<key>Headers/OSETBannerAdProtocol.h</key>
@@ -1236,6 +873,13 @@
 			<key>hash2</key>
 			<data>
 			eF2pYFNn6/ro9nGsT9Ee4ANKHMoTmXTqB2Ge5XsPeaE=
+			</data>
+		</dict>
+		<key>Headers/OSETCommonAdapterSupport.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			o8EVcKmm7EFxwDCKnotojmUr9mu+Z8IG2GzWMlkn1u0=
 			</data>
 		</dict>
 		<key>Headers/OSETDrawAd.h</key>
@@ -1277,14 +921,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CbRxV81wUpkJQS5zkWYIr8N4VHJRwk3mlFxmLj3jSSs=
-			</data>
-		</dict>
-		<key>Headers/OSETLogManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vP3RUPSeIq1MU22SxZAnfAYMq5iQwaWRBoGBXhDmbOY=
+			tlKPcg9YCKMZkJlfD3ms7aG8F7MmpY2KITF6hqWHark=
 			</data>
 		</dict>
 		<key>Headers/OSETManager.h</key>
@@ -1319,7 +956,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uqsOfUGurLbPqKIYBT/XU9ylAqdNvbBE9ShabPstBaA=
+			IEo2MZd2UihixErVnNGpMc6wigp/JOm5o8KjxPQih/E=
 			</data>
 		</dict>
 		<key>Headers/OSETNativeDataAd.h</key>
@@ -1333,14 +970,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RSeEAbXKp03D9DplQ849mHkoPkK2WZ/o8K87KxuOXHg=
+			/xglg/4S6M7/WVFX79XCjqwdF6l6QTjImMiUE7qfAgQ=
 			</data>
 		</dict>
 		<key>Headers/OSETNativeDataAdProtocol.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KrzInoeSl2qXWRhVbgDEG1nF3Iglsiu2xu2GOWj4Fc0=
+			zKRbt80juPW8k62nDarwP6MdS8Qrp/lOCECCGRTj7so=
 			</data>
 		</dict>
 		<key>Headers/OSETRewardVideoAd.h</key>
@@ -1361,7 +998,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uQHpXCB25+cusiuNhcMmorJo3m2OhcRdClS0ewaO8oQ=
+			MIy63OdAf1QZ27yRCRLpt5cgKbDcsHgNEPte695/BFE=
 			</data>
 		</dict>
 		<key>Headers/OSETSDKInitializable.h</key>
