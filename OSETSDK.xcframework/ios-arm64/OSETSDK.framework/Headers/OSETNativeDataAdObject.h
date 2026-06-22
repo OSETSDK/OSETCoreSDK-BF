@@ -71,6 +71,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic,readonly,assign)NSInteger eCPM;
 
 
+
 @property (nonatomic, assign) BOOL isSS;
 
 @end

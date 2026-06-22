@@ -90,7 +90,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)registerClickableViews:(NSArray<UIView *> *)clickableViews;
 
-
 #pragma mark - 关闭按钮注册
 /**
  注册关闭按钮
