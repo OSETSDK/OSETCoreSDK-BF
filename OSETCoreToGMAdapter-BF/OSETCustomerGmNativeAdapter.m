@@ -66,6 +66,9 @@
 
 
 }
+-(void)nativeExpressAdDidExposured:(id)nativeExpressView{
+    [self.bridge nativeAd:self didVisibleWithMediatedNativeAd:nativeExpressView];
+}
 - (void)registerContainerView:(nonnull __kindof UIView *)containerView andClickableViews:(nonnull NSArray<__kindof UIView *> *)views forNativeAd:(nonnull id)nativeAd {
 
 }
@@ -84,6 +87,7 @@
     self.viewController = viewController;
     self.nativeAd.viewController = viewController;
 }
+
 - (void)didReceiveBidResult:(BUMMediaBidResult *)result {
     // 在此处理Client Bidding的结果回调
 //    NSLog(@"didReceiveBidResult = %@,%ld,%@,%@",result,(long)result.win,result.winnerPrice,result.winnerAdnID);
