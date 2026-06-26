@@ -12,13 +12,9 @@
 		<data>
 		NpO3ozCneGhAR36Be+U7sZsWBIg=
 		</data>
-		<key>AdSetQDB_sdk.bundle/combination_bg.png</key>
+		<key>AdSetQDB_sdk.bundle/btn_play.png</key>
 		<data>
-		r4PgHhk2mwXZgGeZcZZ8SYFsJ5E=
-		</data>
-		<key>AdSetQDB_sdk.bundle/combination_iphone.png</key>
-		<data>
-		CArBB9HzvzKEfSTsh4u9Mf0i9hw=
+		JbIkF70hEwGHDkFJ6ghfzu2wrHw=
 		</data>
 		<key>AdSetQDB_sdk.bundle/hand_bottom.png</key>
 		<data>
@@ -238,7 +234,7 @@
 		</data>
 		<key>Headers/OSETNativeAdProtocol.h</key>
 		<data>
-		BwE1J/sSYFTDcULyKpD+HZZG8pc=
+		elmSqKaFqIuqkvPGV20RNLqWBKM=
 		</data>
 		<key>Headers/OSETNativeAdRenderer.h</key>
 		<data>
@@ -553,18 +549,11 @@
 			vMij85mb6wEG6eFRTlXXx40cDY91pHsbFcwFRPwid+w=
 			</data>
 		</dict>
-		<key>AdSetQDB_sdk.bundle/combination_bg.png</key>
+		<key>AdSetQDB_sdk.bundle/btn_play.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BVdAIX4Vyn3uMU5Rqh230dIFFNftQV1JWXrvPB6VfwE=
-			</data>
-		</dict>
-		<key>AdSetQDB_sdk.bundle/combination_iphone.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/grUoS4itxF6U3Kc6ogcHVRYG+jKrQLZwsv+Ig3WGYE=
+			tDuOPXTF+HikN0LIVf3gUCJadnVxT8FYJOqkZu8HnmU=
 			</data>
 		</dict>
 		<key>AdSetQDB_sdk.bundle/hand_bottom.png</key>
@@ -949,7 +938,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m0B4ND1zzeFxjmZij9hsfe34Ov8H5MMGZO46t5oz0Lg=
+			DWwBhD0lMZOMctvS2CSmCF2cB8SVPwCFjQr4ybMnZ6A=
 			</data>
 		</dict>
 		<key>Headers/OSETNativeAdRenderer.h</key>

@@ -22,6 +22,8 @@ NS_ASSUME_NONNULL_BEGIN
 -(UIView *)getBgView;
 
 @required
+- (void)setRootViewController:(UIViewController * _Nullable)viewController;
+
 //- (void)showInView:(OSETBaseView *)view ViewController:(UIViewController *)viewController;
 //-(UIView *)getBgView;
 @end

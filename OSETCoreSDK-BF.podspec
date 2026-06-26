@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OSETCoreSDK-BF"
-  s.version      = "6.6.9.0"
+  s.version      = "6.6.9.5"
   s.summary      = "奇点广告对接"
   s.description  = <<-DESC
                       OSETCodeSDK-BF 是一个专业的广告SDK，提供高效的广告展示和收益优化功能。
