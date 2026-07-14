@@ -35,7 +35,7 @@
         vc = self.viewController;
     }
     BOOL express = [parameter[BUMAdLoadingParamExpressAdType] integerValue] == 1;
-    if (!express) {
+    if (express) {
         // ADN 渲染(模板) / 无需区分
         self.nativeAd = [[OSETNativeAd alloc] initWithSlotId:slotID size:size rootViewController:vc];
         self.nativeAd.delegate = self;
