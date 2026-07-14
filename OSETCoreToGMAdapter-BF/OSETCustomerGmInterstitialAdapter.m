@@ -48,7 +48,7 @@
 }
 
 - (void)interstitialDidReceiveSuccess:(nonnull id)interstitialAd slotId:(nonnull NSString *)slotId {
-    [self.bridge interstitialAd:self didLoadWithExt:@{BUMMediaAdLoadingExtECPM:@(MAX(self.interstitialAd.eCPM, 0))}];
+    [self.bridge interstitialAd:self didLoadWithExt:@{BUMMediaAdLoadingExtECPM:[NSString stringWithFormat:@"%ld",(long)self.interstitialAd.eCPM]}];
     [self.bridge interstitialAdRenderSuccess:self];
 }
 

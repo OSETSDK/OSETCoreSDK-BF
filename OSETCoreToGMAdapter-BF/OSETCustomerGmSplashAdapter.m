@@ -64,7 +64,8 @@
 #pragma mark OSETSplashAdDelegate
 - (void)splashDidReceiveSuccess:(nonnull id)splashAd slotId:(nonnull NSString *)slotId {
     // 加载广告成功
-    [self.bridge splashAd:self didLoadWithExt:@{BUMMediaAdLoadingExtECPM:@(MAX(self.splashAd.eCPM, 0))}];
+    NSInteger price = self.splashAd.eCPM;
+    [self.bridge splashAd:self didLoadWithExt:@{BUMMediaAdLoadingExtECPM:[NSString stringWithFormat:@"%ld",(long)price]}];
 }
 - (void)splashLoadToFailed:(nonnull id)splashAd error:(nonnull NSError *)error {
     [self.bridge splashAd:self didLoadFailWithError:error ext:@{}];

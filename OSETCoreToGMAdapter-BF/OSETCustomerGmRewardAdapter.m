@@ -46,7 +46,7 @@
     NSLog(@"didReceiveBidResult = %@,%ld,%@,%@",result,(long)result.win,result.winnerPrice,result.winnerAdnID);
 }
 - (void)rewardVideoDidReceiveSuccess:(nonnull id)rewardVideoAd slotId:(nonnull NSString *)slotId {
-    [self.bridge rewardedVideoAd:self didLoadWithExt:@{BUMMediaAdLoadingExtECPM:@(MAX(self.rewardVideoAd.eCPM, 0))}];
+    [self.bridge rewardedVideoAd:self didLoadWithExt:@{BUMMediaAdLoadingExtECPM:[NSString stringWithFormat:@"%ld",(long)self.rewardVideoAd.eCPM]}];
     [self.bridge rewardedVideoAdVideoDidLoad:self];
 }
 

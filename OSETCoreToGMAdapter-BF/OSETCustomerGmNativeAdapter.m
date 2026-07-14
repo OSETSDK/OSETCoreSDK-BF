@@ -36,12 +36,12 @@
     }
     BOOL express = [parameter[BUMAdLoadingParamExpressAdType] integerValue] == 1;
     if (express) {
-        // ADN 渲染(模板) / 无需区分
+        // ADN 渲染(模板)
         self.nativeAd = [[OSETNativeAd alloc] initWithSlotId:slotID size:size rootViewController:vc];
         self.nativeAd.delegate = self;
         [self.nativeAd loadAdData];
     } else {
-        // 开发者自渲染
+        // 开发者自渲染/ 无需区分
         self.renderers = [NSMutableArray array];
         self.dataAd = [[OSETNativeDataAd alloc] initWithSlotId:slotID size:size rootViewController:vc];
         self.dataAd.delegate = self;
@@ -57,7 +57,7 @@
         OSETBaseView * view = [nativeExpressViews objectAtIndex:i];
         [list addObject:view];
         [exts addObject:@{
-            BUMMediaAdLoadingExtECPM : @(view.eCPM),
+            BUMMediaAdLoadingExtECPM : [NSString stringWithFormat:@"%ld",(long)view.eCPM],
         }];
     }
     [self.bridge nativeAd:self didLoadWithExpressViews:[list copy] exts:exts.copy];
@@ -103,8 +103,7 @@
         ad.view = [[UIView alloc] init];
         ad.originMediatedNativeAd = renderer;  // 后续 GroMore 回调 forNativeAd: 给的就是它
         [list addObject:ad];
-
-        [exts addObject:@{ BUMMediaAdLoadingExtECPM : @(obj.eCPM) }];
+        [exts addObject:@{ BUMMediaAdLoadingExtECPM :[NSString stringWithFormat:@"%ld",(long)obj.eCPM]}];
     }
     [self.bridge nativeAd:self didLoadWithNativeAds:[list copy] exts:[exts copy]];
 }
@@ -163,6 +162,11 @@
         ((OSETNativeAdRenderer *)nativeAd).viewController = viewController;
     }
 }
+
+- (void)unregisterClickableViewsForNativeAd:(nonnull id)nativeAd { 
+    
+}
+
 
 - (void)didReceiveBidResult:(BUMMediaBidResult *)result {
     // 在此处理Client Bidding的结果回调
