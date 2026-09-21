@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OSETCoreSDK-BF"
-  s.version      = "7.0.0.1"
+  s.version      = "7.0.2.9"
   s.summary      = "奇点广告对接"
   s.description  = <<-DESC
                       OSETCodeSDK-BF 是一个专业的广告SDK，提供高效的广告展示和收益优化功能。
@@ -20,7 +20,6 @@ Pod::Spec.new do |s|
   
   # 主框架文件
   # 检查 OSETSDK.podspec 关键字段
-  s.vendored_frameworks = 'OSETSDK.xcframework'
     s.source_files = 'OSETCoreToGMAdapter-BF/**/*.{h,m}'
 
   # 系统框架依赖
@@ -33,9 +32,7 @@ Pod::Spec.new do |s|
   # Swift版本设置
   s.swift_version = '5.0'
   
-  s.dependency 'AdSetQDBAdSDK'
-  s.dependency 'AdSetQDFAdSDK'
-  s.dependency 'Ads-CN/BUAdSDK'
-  s.dependency 'Ads-CN/CSJMediation'
-  s.dependency 'AliyunLogProducer'
+  s.dependency 'OSETCoreAd'
+  s.dependency 'AdSetQDBAdapter'
+  s.dependency 'AdSetQDFAdapter'
 end
