@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OSETCoreSDK-BF"
-  s.version      = "7.0.3.0"
+  s.version      = "7.0.3.1"
   s.summary      = "奇点广告对接"
   s.description  = <<-DESC
                       OSETCodeSDK-BF 是一个专业的广告SDK，提供高效的广告展示和收益优化功能。
@@ -26,9 +26,6 @@ Pod::Spec.new do |s|
   s.frameworks = "Foundation", "UIKit", "AdSupport", "CoreTelephony", "StoreKit", "SystemConfiguration"
   
   # 资源文件
-    s.resource_bundles = {
-    'OSETResources' => ['OSETSDK.bundle']
-  }
   # Swift版本设置
   s.swift_version = '5.0'
   
